@@ -1,0 +1,15 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.outersection {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+    flex-direction: column;
+    background-color: rgb(46, 42, 42);
+    color:grey
+}
